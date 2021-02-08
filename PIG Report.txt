@@ -1,0 +1,9 @@
+Sharon Lynch
+ITD 298 PIG Report 
+February 8, 2021
+Prof’s Shelton and Dust
+Progress: 	Working on foundation of the web design. Design/wire frame has been completed. Finalized the logo design.
+
+Issues: 	Creating design using HTML5 coding. Only issue is amount of time between last time I coded and now. 
+
+Goals: 		To have landing page completely coded and the template for the other pages completed.
